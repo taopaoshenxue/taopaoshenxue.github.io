@@ -16,6 +16,8 @@ avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLKxYpPT-1NgTVPDT
 # Flags below are optional
 #
 
+paginate: 3  
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
